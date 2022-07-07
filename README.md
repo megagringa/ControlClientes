@@ -5,12 +5,12 @@ Ejercicios tema 3 armados en java de nievel inicial para un bootcamp.
 Primera parte:
 public class sumaTres{
 	public static void suma(int a, int b, int c){
-		  int resultado = a + b + c;
-		  System.out.println("La suma de A , B y C es "+ resultado);
+		int resultado = a + b + c;
+		System.out.println("La suma de A , B y C es "+ resultado);
 	}
-	 public static void main(String[] args) {
-          suma(20, 30, 40);
-	 }
+	public static void main(String[] args) {
+        	suma(20, 30, 40);
+	}
 }
 
 Segunda parte:
