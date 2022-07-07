@@ -3,6 +3,7 @@
 Ejercicios tema 3 armados en java de nievel inicial para un bootcamp.
 
 Primera parte:
+```
 public class sumaTres{
 	public static void suma(int a, int b, int c){
 		int resultado = a + b + c;
@@ -12,8 +13,9 @@ public class sumaTres{
         	suma(20, 30, 40);
 	}
 }
-
+```
 Segunda parte:
+```
 public class miCoche{
 	private int puertas;
 
@@ -35,3 +37,4 @@ public class miCoche{
 		coche.muestra();
 	}
 }
+```
