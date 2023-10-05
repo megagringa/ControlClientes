@@ -77,6 +77,6 @@ Luego colocamos Run y esperamos a que el servidor se levante y lo corra en el bu
 
 ---
 
-![Control Clientes](https://github.com/megagringa/ControlClientes/tree/main/img/control_clientes.jpeg)
+![Control Clientes](https://github.com/megagringa/ControlClientes/blob/main/img/control_clientes.jpeg)
 
 Una imagen de como se veria el mini proyecto.
